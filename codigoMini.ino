@@ -1,6 +1,6 @@
   // Pines de los motores
     // Modificar si el giro de motores no es el adecuado
-#define PIN_MOTOR_LEFT_1        6
+#define PIN_MOTOR_LEFT_1        61
 #define PIN_MOTOR_LEFT_2        5
 #define PIN_MOTOR_RIGHT_1       11
 #define PIN_MOTOR_RIGHT_2       10
